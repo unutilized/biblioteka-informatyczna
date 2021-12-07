@@ -10,15 +10,7 @@
         {
             "id": 0,
             "title": "Sample text",
-            "contents":
-            [
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "Nullam justo purus, aliquam id semper non, commodo non dui.",
-                "Vestibulum vulputate bibendum tortor, volutpat pulvinar neque commodo eu.",
-                "Nam imperdiet ex quis varius maximus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent pulvinar venenatis venenatis.",
-                "Quisque dictum ultricies elementum. Mauris non finibus lectus. Cras vestibulum blandit massa nec viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum, velit non posuere tincidunt, massa ex dictum quam, quis euismod turpis metus eu justo.",
-                "Vivamus purus turpis, malesuada quis aliquet quis, mattis sed sapien."
-            ]
+            "contents": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
         
         }
     ]
