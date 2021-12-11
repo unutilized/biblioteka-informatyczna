@@ -1,0 +1,37 @@
+{
+    "books":
+    [
+        {
+            "id": -1,
+            "title": "Error",
+            "contents": "It seems, that the bookID wasn't found, so we made it -1. Anyway, happy debugging lol"
+        },
+
+        {
+            "id": 0,
+            "title": "Sample text",
+            "contents": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        
+        }
+    ],
+    "signs":
+    [
+        {
+            "id": -1,
+            "title": "Error",
+            "contents": "It seems, that the signID wasn't found, so we made it -1. Anyway, happy debugging lol"
+        },
+        {
+            "id": 0,
+            "title": "Sample text",
+            "contents": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        
+        },
+        {
+            "id": 0,
+            "title": "[Wskazówka]",
+            "contents": "W powietrzu możesz podwójnie skoczyć!"
+        
+        }
+    ]
+}
