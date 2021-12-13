@@ -12,6 +12,11 @@
             "title": "Sample text",
             "contents": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
         
+        },
+        {
+            "id": 1,
+            "title": "Czym jest informatyka?",
+            "contents": "Informatyka jest dziedziną nauki, która zajmuje się przetwarzaniem informacji. Pierwotnie ona była częścią matematyki, jednak aktualnie jest osobnym działem techniki."
         }
     ],
     "signs":
@@ -28,9 +33,9 @@
         
         },
         {
-            "id": 0,
+            "id": 1,
             "title": "[Wskazówka]",
-            "contents": "W powietrzu możesz podwójnie skoczyć!"
+            "contents": "Wciśnij skok na dłużej, aby móc pokonać dłuższy dystans"
         
         }
     ]
