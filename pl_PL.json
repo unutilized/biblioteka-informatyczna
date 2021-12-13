@@ -35,8 +35,13 @@
         {
             "id": 1,
             "title": "[Wskazówka]",
-            "contents": "Wciśnij skok na dłużej, aby móc pokonać dłuższy dystans"
+            "contents": "Wciśnij skok na dłużej, aby móc pokonać dłuższy dystans."
         
+        },
+        {
+            "id": 2,
+            "title": "",
+            "contents": "Niektóre drzwi wymagają otwarcia kłódki, aby ich użyć. Przełącznik i drzwi zawsze są tego samego koloru i występują razem w tym jednym pokoju."
         }
     ]
 }
