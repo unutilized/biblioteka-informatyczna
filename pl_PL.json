@@ -24,6 +24,12 @@
             "id": 2,
             "title": "Abakus",
             "contents":"Abakus to deska z wyżłobionymi rowkami, które symbolizowały kolejne potęgi dziesięciu. Abakus grecki składa się z dwóch grup poziomych linii przedzielonych pionową – na dolnych liniach odliczano mantysę liczby ułamkowej, na górnej zaś wykładnik. Rzymski natomiast składa się z kolumn odpowiadającym odpowiednim pozycjom dziesiętnym. Każda kolumna składa się z dwóch części: w dolnej jest po pięć kamyków, w górnej – dwa. Osobna kolumna służyła do reprezentacji ułamków. <br> <br> Początkowo obliczenia wykonywano za pomocą kamyków, patyków czy muszli odpowiednio układanych na piasku. Z czasem zaczęto posługiwać się specjalną płytką, tabliczką z wyżłobionymi rowkami, taka forma narodziła się w Rzymie i Grecji mniej więcej w 440 r. p.n.e i była pierwowzorem dzisiejszego liczydła.  Poszczególne wyżłobienia oznaczały kolejne potęgi liczby 10 – jedności, dziesiątki, setki itd. Umieszczano w nich kamyki, a ich ułożenie wskazywało na pozycje cyfry. Poprzez dokładanie i usuwanie kamyków wykonywało się działania arytmetyczne – dodawanie, odejmowanie i mnożenie. Dzisiejszy wygląd liczydła uzyskano, nawlekając kamienie na sznurek. Dzięki temu abakus stał się przenośny, a tym samym bardzo praktyczny"
+        },
+               
+        {
+            "id": 3,
+            "title": "Dodawanie i odejmowanie na abakusie",
+            "contents":"Dodawanie<br>Aby dodać do siebie dwie liczby, odkłada się jedną z nich na abakusie, po czym rozsuwa na boki i na środku układa drugą z nich. <br>- jeśli na jednej wysokości po obu stronach znajduje się kamyk, oba zdejmujemy, <br>- z dwóch kamyków po jednej stronie pomiędzy dwiema liniami jeden zdejmujemy, drugi kładziemy na linii nad nimi, <br> - jeśli na linii znajdą się trzy kamyki po jednej stronie, jeden kładziemy nad tą linią, a dwa przenosimy na drugą stronę, <br> mając jeden kamyk na linii i drugi pod linią po drugiej stronie, dolny przekładamy na drugą stronę, górny zdejmujemy. <br> <br> Odejmowanie <br> Ponieważ liczba ujemna jest symetrycznym odbiciem względem pionowej linii, aby uzyskać liczbę ujemną, wystarczy przemieścić kamyki na drugą stronę. Zatem aby odjąć liczbę, wystarczy dodać liczbę przeciwną."
         }
     ],
     "signs":
