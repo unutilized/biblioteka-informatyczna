@@ -75,7 +75,28 @@
             "id": 12,
             "title": "Charles Babbage - ,,ojciec komputerów”",
             "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
+        },
+        {
+            "id": 13,
+            "title": "Ada Lovelace – „pierwsza programistka”",
+            "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
+        },
+        {
+            "id": 14,
+            "title": "Karta dziurkowana",
+            "contents":"<b>Karta dziurkowana</b> była używana do programowania komputerów począwszy od ich konstrukcji aż do lat 80. XX wieku, w ostatnim okresie stosowana z papierową taśmą dziurkowaną. Za wynalazcę kart dziurkowanych uważa się Josepha Jacquarda, który zastosował je po raz pierwszy w krośnie, do sterowania nićmi podczas tkania, co pozwalało tworzyć tkaninę o powtarzalnym wzorze.<br><br><b>Zasady działania</b><br> - na prostokątnej, papierowej karcie kolejne pozycje są albo przedziurkowane albo pozostawione nienaruszone <br> - każda pozycja na karcie reprezentuje pojedynczy bit informacji <br> - każda kolumna reprezentuje jeden znak <br> - w kolumnie znajduje się 12 pozycji <br> - w formacie firmy IBM kolumn było 80, można zatem było zakodować na niej 80 znaków."
+        },
+        {
+            "id": 15,
+            "title": "Maszyny na literę „z”",
+            "contents":"<b>Z1</b><br>Konrad Zuse (1910-1995) zbudował Z1 - pierwszy komputer na przekaźnikach, czyli oparty na systemie dwójkowym. Ze względu na brak instrukcji warunkowej nie był on kompletną maszyną Turinga.<br> Komputer, którego budowę ukończono w 1938 r., został zniszczony podczas bombardowania Berlina w grudniu 1943 r. Z1 będący pierwszym komputerem zbudowanym przez Zusego nosił początkowo nazwę „V1” - skrót od „Versuchmodell 1” jednak po II wojnie światowej zmieniono jego nazwę dla odróżnienia od samolotu-pocisku V1. <br> <br><b>Z2</b><br>Z2 to udoskonalona wersja komputera Z1, ukończona w 1940. Twórcą komputera był Konrad Zuse. Jednostka arytmetyczno-logiczna była zbudowana z przekaźników elektrycznych i wykorzystywała 16-bitową arytmetykę stałoprzecinkową. Zegar miał częstotliwość ok. 5 Hz. Pamięć Z2 była taka sama jak w Z1. Komputer ważył ok. 300 kg. <br> <br><b>Z3</b><br> Zuse stworzył swój kolejny komputer (Z3). Tym razem pionierskim ruchem było wykorzystanie arytmetyki zmiennoprzecinkowej, czyli reprezentowanie liczb jako pary liczb: mantysy i potęgi dziesiątki określającej rząd liczby. Z3 stosował 14-bitową mantysę i 7-bitowy wykładnik. Maszyna pamiętała dane przy użyciu 1400 przekaźników i używała dodatkowych 1200 do obliczeń i sterowania. Potrafiła wykonać od 3 do 4 dodawań na sekundę, a na mnożenie potrzebowała od 3 do 5 sekund."
+        },
+        {
+            "id": 16,
+            "title": "Charles Babbage - ,,ojciec komputerów”",
+            "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
         }
+        
         
         
     ],
