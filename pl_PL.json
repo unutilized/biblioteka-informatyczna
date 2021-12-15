@@ -45,7 +45,39 @@
             "id": 6,
             "title": "Liczydło",
             "contents":"<b>Opis</b><br>Najprostszym liczydłem dla systemu liczbowego o podstawie n jest liczydło o liczbie elementów przesuwanych 2(n-1) Np. w systemie dziesiętnym, aby dodać dwie liczby na liczydle 18-elementowym, należy:<br>- W każdym rzędzie rozsunięciem, np. w prawo, ustawić liczbę elementów równą każdej cyfrze pierwszej liczby.<br>- Przejść do pierwszego rzędu odpowiadającemu najniższej potędze i z lewa na prawo przesunąć liczbę elementów równą cyfrze drugiej liczby tak, aby w obu dodawanych liczbach rząd odpowiadał tej samej pozycji w systemie liczbowym.<br>- Jeśli wynik przesunięcia jest dłuższy niż 9, przed kolejnym dodaniem przesunąć 10 elementów z powrotem w lewo i przesunąć jeden element w prawo w następnym rzędzie.<br>- Sumę daje liczba zbudowana z elementów przesuniętych na prawo (tak jak pierwsza ustawiona liczba).<br><br> Używanie liczydeł o mniejszej liczbie elementów jak liczydło szkolne (10) lub abakus (2 x 5) jest trudniejsze. Aby dodać dwie liczby w systemie dziesiętnym na liczydle z dziesięcioma elementami w rzędzie, należy np.<br>- W każdym rzędzie rozsunięciem, np. w prawo, ustawić liczbę elementów równą każdej cyfrze pierwszej liczby.<br>- Zacząć od pierwszego rzędu odpowiadającemu najniższej potędze i z lewa na prawo przesunąć liczbę elementów równą cyfrze drugiej liczby tak, aby rząd odpowiadał tej samej pozycji w systemie liczbowym. <br>Jeśli liczba elementów z prawej strony jest mniejsza od liczby danej cyfrą drugiej liczby, zapamiętać ich liczbę przesunąć wszystkie elementy do 10 na lewo, ustawić liczbę elementów równą cyfrze drugiej liczby na prawo, przesunąć liczbę zapamiętanych elementów, na lewo i przesunąć jeden element w następnym rzędzie na prawo."
+        },
+        {
+            "id": 7,
+            "title": "Maszyna licząca Schickarda",
+            "contents":"Prawdziwą pierwszą mechaniczną maszyną liczbową była ta wynaleziona w 1630 roku przez Niemca Wilhelma Schickarda. <br>Składała się ona z układu walców, pośrednich kół zębatych i wyskalowanych tarcz nastawnych. Mogła ona dodawać i odejmować. Niewiele później Blaise Pascal wprowadzając przekładnie kątowe zmniejszył urządzenie Schickarda. <br><br>Wilhelm Schickard (1592-1635) konstruowa/l w Heidelburgu czterodziałaniowy kalkulatorzegar. Miał on wykonywać operacje na sześciocyfrowych liczbach i sygnalizować błędy przepełnienia za pomocą dzwonka. Niestety Schickard nie zdołał ukończyć pracy and swoją maszyną, która spłonęła w czasie toczącej się wówczas wojny, a jej plany zaginęły. Odnaleziono je dopiero w 1935 roku, po czym znowu zaginęły i ponownie się odnalazły w 1956 roku. Cztery lata później zbudowano maszynę zgodnie z odnalezionymi planami i rzeczywiście działała poprawnie.<br><br><b>Różnice</b><br>Różnice między maszynami liczącymi Schickarda, a naszymi współczesnymi kalkulatorami są następujące:<br> - Szybsza obsługa współczesnych kalkulatorów<br> - Większa ilość obliczeń, którą możemy wykonać<br> - Monitor, który ułatwia nam zobaczenie wyniku"
+        },
+        {
+            "id": 8,
+            "title": "Maszyna licząca Liebniza",
+            "contents":" - nacięcia (35–20 tys. lat p.n.e., jednak stosowane w Anglii jeszcze w XIX wieku)<br> - palce u rąk i nóg oraz inne części ciała<br> - liczby na sznurkach – najbardziej znane w postaci kipu Inków, stosowane od XII w. n.e., na bazie systemu dziesiętnego<br> - kamyki (łac. calculus – kamyczek) – podstawa abaków, tabliczek"
+        },
+        {
+            "id": 9,
+            "title": "Pierwsze sposoby liczenia",
+            "contents":"Gottfriend Wilhelm von Leibniz (1646-1716) skonstruował czterodziałaniową maszynę liczącą. Potrafiła mnożyć liczby 5- przez 12-cyfrowe dając rezultaty długości do 16 znaków. Leibniz wsławił się jednak bardziej swoimi osiągnięciami w teorii 2 matematyki. Zapoczątkował on rozwój rachunku różniczkowego oraz jako pierwszy pisał o systemie dwójkowym i rachunku logicznym, które czekały potem ok. 200 lat na zastosowanie do konstrukcji komputera. Po tym okresie stały się podstawą konstrukcji wszelkich maszyn liczących."
+        },
+        {
+            "id": 10,
+            "title": "Mechaniczne maszyny liczące",
+            "contents":"150–100 r. p.n.e. - mechanizm z Antykithiry. Służy do przeprowadzania obliczeń astronomicznych dotyczących Słońca, innych gwiazd, gwiazdozbiorów, Księżyca i planet, w tym prawdopodobnie ich pozycji i wielu parametrów zaćmień lata w przód (kierunek postępowania zaćmienia, wielkość zaćmienia, kolor Księżyca, rozmiar kątowy Księżyca, węzeł księżycowy i czas zaćmienia). <br> <br><b>Podział mechanizmów</b><br> - małej mechanizacji<br> - arytmometr<br> - sumator<br> - średniej mechanizacji<br> - maszyna do księgowania<br> - maszyna do fakturowania"
+        },
+        {
+            "id": 11,
+            "title": "Kalkulator „Curta”",
+            "contents":"<b>Kalkulator „Curta”</b> to mały, mechaniczny kalkulator, stworzony przez Curta Herzstarka w 1948 roku. Herzstark stworzył projekt kalkulatora podczas pobytu w obozie w Buchenwaldzie. Curt Herzstark przetrwał obóz i po II wojnie światowej wyjechał do Liechtensteinu, gdzie dokończył swoje dzieło.<br>Kalkulator ma wielkość małej puszki. Z boku zostało umieszczone osiem suwaków służących do wprowadzania liczb. W późniejszej wersji było ich 11. Na górze znajdują się dwa wyświetlacze – sześciocyfrowy lub ośmiocyfrowy licznik obrotów oraz jedenastocyfrowy lub piętnastocyfrowy wyświetlacz wyniku. Blaszka z dziurą służy do resetowania obu wyświetlaczy. Poniżej blaszki jest pierścień, którym ustala się mnożnik (1, 10, 100, 1000...), a także przełącznik trybów mnożenia i dzielenia. <br> <br> Kalkulatory „Curta” długo były najlepszymi poręcznymi kalkulatorami, dopóki nie zostały zastąpione kalkulatorami elektronicznymi w latach 70. Ich przewagą nad innymi urządzeniami liczącymi były kieszonkowe wymiary, prosta i szybka obsługa wielu działań, duża dokładność, a także mała hałaśliwość. <br> Dla uniknięcia błędów osobno pokazywane są wprowadzane liczby, liczba obrotów korbki i wynik. Nie grozi omyłkowe skasowanie wyniku, ponieważ pierścień do zerowania odczytu jest zabezpieczony przed przypadkowym użyciem. <br> Odejmowanie zostało zastąpione mechanizmem dopełnienia. Realizacja dodawania i odejmowania odbywa się na uzupełnieniowym bębnie schodkowym. Może być używany do wykonywania dodawania, odejmowania, mnożenia, dzielenia i, z większą trudnością, pierwiastków kwadratowych i innych operacji."
+        },
+        {
+            "id": 12,
+            "title": "Charles Babbage - ,,ojciec komputerów”",
+            "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
         }
+        
+        
     ],
     "signs":
     [
