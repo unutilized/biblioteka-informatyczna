@@ -171,6 +171,11 @@
             "id": 2,
             "title": "[O drzwiach]",
             "contents": "Niektóre drzwi wymagają otwarcia kłódki, aby ich użyć. Przełącznik i drzwi zawsze są tego samego koloru i występują razem w tym jednym pokoju."
+        },
+        {
+            "id": 3,
+            "title": "[Przeciwnicy i walka]",
+            "contents": "W niektórych pokojach napotkasz przeciwników. Naciśnij [F], żeby ich zaatakować."
         }
     ]
 }
