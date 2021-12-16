@@ -102,28 +102,28 @@
         },
         {
             "id": 18,
-            "title": "Lorem Ipsum",
-            "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
+            "title": "Taśmy dziurkowane",
+            "contents":"Taśmy dziurkowane są znane od połowy XIX wieku, używano je jako papierowy nośnik do zapisywania danych. Były do tego celu również stosowane jak papierowe karty dziurkowane w pierwszych komputerach. Z czasem zostały zastąpione przez bardziej pojemne media np. taśmy magnetyczne. Taśma 8-ścieżkowa kodowała 7-bitowy kod ASCII, ósma ścieżka służyła jako bit parzystości. Pasek mniejszych dziurek służył jako perforacja dla zębatego kółka mechanicznego czytnika lub perforatora, a dla czytnika fotoelektrycznego służyła jako wskaźnik poprzecznego rzędu bitów."
         },
         {
             "id": 19,
-            "title": "Lorem Ipsum",
-            "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
+            "title": "Harvard Mark I",
+            "contents":"Największy kalkulator elektromechaniczny. Harvard Mark I miał blisko 16 m długości, 2,4 m wysokości i ważył ponad 4,3 t. Zawierał ponad 850 km przewodów z trzema milionami połączeń. Uruchomiony w Harvard Computation Laboratory. Maszyna początkowo wykonywała obliczenia dla wojska. Stosowano ją do budowy tablic artyleryjskich, rozwiązywania problemów z dziedziny zaopatrzenia i transportu, a także zagadnień związanych z konstrukcją broni jądrowej."
         },
         {
             "id": 20,
-            "title": "Lorem Ipsum",
-            "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
+            "title": "Manchester Mark I",
+            "contents":" Manchester Mark I – jeden z najwcześniejszych komputerów przechowujących instrukcje w pamięci, zbudowany na uniwersytecie w Manchesterze. Był także nazywany Manchester Automatic Digital Machine lub MADM. Został rozwinięty ze Small-Scale Experimental Machine. Prace nad nim zaczęły się w sierpniu 1948, a pierwsza wersja zaczęła działać w kwietniu 1949. Program poszukujący liczb Mersenne’a działał na nim bezbłędnie przez dziewięć godzin w nocy z 16 na 17 czerwca 1949.<br><br>Udane uruchomienie maszyny odbiło się echem w prasie brytyjskiej, która używała, w odniesieniu do niej, takich określeń, jak: „elektroniczny mózg”. Ten opis sprowokował reakcję naczelnika departamentu neurochirurgii na uniwersytecie w Manchesterze i długotrwałą debatę na temat tego, czy komputer może kiedykolwiek być prawdziwie kreatywny.<br><br> Mark I miał umożliwiać pracę obliczeniową na uniwersytecie, aby naukowcy mogli zdobywać doświadczenie w praktycznym użytkowaniu komputerów, lecz szybko zaczął być prototypem, na którym mogła bazować komercyjna wersja firmy Ferranti. Rozwój zatrzymał się na końcu 1949.<br><br> Maszyna została rozebrana do końca 1950 i zastąpiona w lutym 1951 przez Ferranti Mark 1, pierwszy dostępny komercyjnie komputer elektroniczny ogólnego zastosowania.<br> Ten komputer ma szczególne znaczenie historyczne z powodu zastosowania pionierskich rejestrów indeksów – innowacji, która ułatwiła programowi sekwencyjny odczyt tablic słów maszynowych z pamięci. Jego rozwój poskutkował trzydziestoma czterema pracami naukowymi, a wiele pomysłów z jego konstrukcji zostało użyte w kolejnych komercyjnych produktach jak IBM 701 i 702, a także Ferranti Mark 1. Główni projektanci, Frederic C. Williams i Tom Kilburn, wywnioskowali ze swoich doświadczeń z Mark I, że komputery będą używane w celach naukowych częściej niż dla czystej matematyki. W 1951 rozpoczęli prace nad Meg, następcą Mark I, który miał posiadać jednostkę zmiennoprzecinkową."
         },
         {
             "id": 21,
-            "title": "Lorem Ipsum",
-            "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
+            "title": "ENIAC",
+            "contents":"Elektroniczny, numeryczny integrator i omputer który został skonstruowany w latach 1943–1945 przez J.P. Eckerta i J.W. Mauchly’ego na Uniwersytecie Pensylwanii w USA. Zaprzestano jego używania w 1955 r. Komputer ten był bardzo innowacyjny, posiadał właściwość przetwarzania równoległego oraz oddzielne funkcjonalnie moduły jednostki arytmetycznej i pamięci. ENIAC zajmował powierzchnię ok. 140 metrów kwadratowych. Nie miał pamięci operacyjnej i początkowo programowany był przez przełączanie wtyków kablowych, natomiast później za pomocą kart perforowanych."
         },
         {
             "id": 22,
-            "title": "Lorem Ipsum",
-            "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
+            "title": "Porównanie ENIAC i Mark I",
+            "contents":"<b>ENIAC:</b><br> - Masa: 27 ton <br> - Rozmiar: ~400 metrów sześciennych <br> Liczył w systemie dziesiętnym, operując liczbami dziesięciocyfrowymi, dodatnimi lub ujemnymi, z ustalonym położeniem przecinka dziesiętnego. <br><br><b>Mark I:</b><br> - Masa: 4,3 tony <br> - Rozmiar: ~16m x 2,4m <br> Główny mechanizm sekwencyjny był jednokierunkowy. Pętle w programie były wykonywane przez ich rozwinięcie. Z początku instrukcje warunkowe były wykonywane ręcznie przez operatora."
         },
         {
             "id": 23,
@@ -145,7 +145,6 @@
             "title": "Lorem Ipsum",
             "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
         }
-        
         
     ],
     "signs":
