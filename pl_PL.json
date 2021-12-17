@@ -132,20 +132,19 @@
         },
         {
             "id": 24,
-            "title": "Lorem Ipsum",
-            "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
+            "title": "Geneza internetu, czyli koncepcja sieci komputerów",
+            "contents":"Koncepcję stworzenia sieci komputerów jako pierwszy opisał Joseph Licklider, pracownik amerykańskiej organizacji badawczej ARPA. W notatkach z 1963 r. wyjaśnił on, w jaki sposób ta sieć mogłaby funkcjonować. W tamtym czasie miała ona zostać utworzona między amerykańskimi uniwersytetami, przygotowującymi się na okoliczność wybuchu III wojny światowej."
         },
         {
             "id": 25,
-            "title": "Lorem Ipsum",
-            "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
+            "title": "ARPANET",
+            "contents":" Historia Internetu zaczyna się 29 października 1969 roku, kiedy to w Uniwersytecie Kalifornijskim w Los Angeles, a wkrótce potem w trzech następnych uniwersytetach zainstalowano w ramach eksperymentu finansowanego przez ARPA, zajmującą się koordynowaniem badań naukowych na potrzeby wojska, pierwsze węzły sieci ARPANET – bezpośredniego przodka dzisiejszego Internetu. Eksperyment miał zbadać możliwość zbudowania sieci komputerowej bez wyróżnionego punktu centralnego, która mogłaby funkcjonować nawet pomimo uszkodzenia pewnej jej części. Wszystkie istniejące wcześniej sieci zarządzane były przez jeden główny komputer, którego awaria pozbawiała możliwości pracy całą sieć. Sieć taka nie nadawała się do dowodzenia armią podczas wojny, gdyż główny węzeł sieci byłby pierwszym celem ataku przeciwnika. Postanowiono więc wypróbować zaproponowaną kilka lat wcześniej przez Paula Barana, pracownika RAND Corporation, koncepcję sieci rozproszonej.<br> W ciągu dwóch następnych lat sieć była rozbudowywana, w pracach nad nią brała udział coraz większa liczba naukowców z różnych ośrodków. Trzeba było opracować konkretne aplikacje, umożliwiające wykorzystanie możliwości komunikacyjnych dawanych przez sieć jednym z pierwszych zastosowań było zdalne wykonywanie obliczeń na komputerach dużej mocy znajdujących się w innych ośrodkach."
         },
         {
             "id": 26,
-            "title": "Lorem Ipsum",
-            "contents":"Szczególnie ważnym pomysłem Babbage'a była maszyna analityczna, która okazała się koncepcją rewolucyjną. Co prawda, nie doczekała się ona realizacji praktycznej, jednak jej konstrukcja posłużyła późniejszym twórcom do opracowania dzisiejszych komputerów."
+            "title": "USENET",
+            "contents":"Sieć ta łączyła jedynie dwa uniwersytety i została stworzona przez amerykańskich studentów informatyki. Stopniowo zwracała się także do ogółu informatyków. Rozwój usenet był szybszy niż ARPANET ze względu na liczne grupy dyskusyjne. W 1982 roku podpięto sieci Usenet i Arpanet oraz utworzono kilka sieci uniwersyteckich: CSNET, Theorynet oraz BITNET."
         }
-        
     ],
     "signs":
     [
