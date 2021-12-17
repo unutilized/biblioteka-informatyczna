@@ -154,6 +154,16 @@
             "id": 28,
             "title": "World Wide Web",
             "contents":" W marcu 1989 roku Tim Berners-Lee oraz Robert Cailliau złożyli do CERN-u projekt stworzenia sieci dokumentów hipertekstowych, o nazwie World Wide Web. Miał to być zbiór dokumentów hipertekstowych, który miał ułatwić pracę w CERN-ie. W grudniu 1990 roku Tim Berners-Lee stworzył podstawy HTML i pierwszą stronę internetową. Dwa lata później została napisana pierwsza graficzna przeglądarka WWW o nazwie Mosaic. W 1994 roku współtwórca przeglądarki Mosaic – Marc Andreessen z University of Illinois założył w Kalifornii firmę Netscape Communications. Wkrótce po ukazaniu się na rynku komercyjnej wersji przeglądarki, firma Netscape wydała zaawansowany Netscape Commerce S. <br> Oprócz standardowego udostępniania stron WWW innym użytkownikom, dawał on możliwość przesyłania danych bezpiecznym połączeniem szyfrowanym. Mogły więc być przesyłane poufne dane, gdyż mogły one być odczytane tylko przez adresowanego odbiorcę. Pozwoliło to stworzyć nowe zastosowania Internetu, który zaczął się bardzo gwałtownie rozwijać. <br><br> Dzisiejsi użytkownicy Internetu to wielomiliardowa społeczność, która ciągle się powiększa. Coraz częściej informacje drukowane odsyłają odbiorcę do informacji publikowanych w Internecie."
+        },
+        {
+            "id": 29,
+            "title": "Poczta elektroniczna",
+            "contents":"E-mail został wymyślony w roku 1965. Autorami pomysłu byli: Louis Pouzin, Glenda Schroeder i Pat Crisman. Jednak usługa ta służyła jedynie do przesyłania wiadomości pomiędzy użytkownikami tego samego komputera, a adres poczty elektronicznej jeszcze nie istniał. Usługę polegającą na przesyłaniu wiadomości tekstowych pomiędzy komputerami wymyślił w roku 1971 Ray Tomlinson, wybrał również znak @ do rozdzielania nazwy użytkownika od nazwy komputera, a później nazwy domeny internetowej. <br> Na początku do wysyłania e-maili służył protokół komunikacyjny CPYNET. Później wykorzystywano FTP, UUCP i wiele innych protokołów, a w 1982 roku Jon Postel opracował do tego celu protokół SMTP, używany do dzisiaj.<br><br> Innym, ważnym protokołem komunikacyjnym, wykorzystywanym przy pobieraniu e-maili, jest POP3 oraz jego ulepszona wersja IMAP. <br><br> Standard Multipurpose Internet Mail Extensions opracowano specjalnie z myślą o przesyłaniu poczty elektronicznej. Umożliwia on dodatkowo dołączanie do maila plików z dowolnymi danymi, w formie tzw. załącznika. Do kodowania wiadomości tekstowych stosuje się kodowanie transportowe Quoted-Printable, a do kodowania załączników wykorzystywany jest uuencode oraz jego ulepszona wersja Base64."
+        },
+        {
+            "id": 30,
+            "title": "Komunikatory",
+            "contents":"Początki komunikatorów internetowych sięgają lat 70. i 80. XX wieku. Jednym z pierwszych programów do komunikowania się był Talk. Treść wiadomości była widoczna dla drugiej osoby w trakcie pisania. W 1996 roku powstał pierwszy komunikator – ICQ."
         }
     ],
     "signs":
